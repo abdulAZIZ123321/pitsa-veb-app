@@ -1,0 +1,104 @@
+.bottom-items-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-top: 28px;
+  margin-bottom: 28px;
+}
+
+.bottom-items-wrapper .left-top {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.bottom-items-wrapper .left-top .brothers {
+  margin-left: 5.39px;
+}
+
+.bottom-items-wrapper .left-top .top-little-block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.image {
+  height: 41.14px;
+  width: 45.34px;
+  border-radius: 50%;
+}
+
+.little-title {
+  font-family: 'Barlow' sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 130%;
+  color: #FFFFFF;
+}
+
+.little-text {
+  font-family: 'Barlow' sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 140%;
+  color: #ABBBC2;
+}
+
+.num {
+  width: 48px;
+  background: #2D303E;
+  border: 1px solid #393C49;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 8px;
+  padding: 14px 4.5px;
+  display: inline-block;
+  color: white;
+  padding-left: 16px;
+}
+
+.typer {
+  background: #2D303E;
+  border: 1px solid #393C49;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 8px;
+  padding: 14px 14px;
+  padding-right: 88px;
+  color: white;
+}
+
+.rigth-text {
+  font-family: 'Barlow' sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 140%;
+  text-align: right;
+  color: #FFFFFF;
+  margin-bottom: 23px;
+}
+
+.btn-rigth {
+  border: 1px solid #FF7CA3;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 8px;
+  background-color: transparent;
+  padding: 15.67px 16.5px;
+  outline: none;
+  cursor: pointer;
+}
+/*# sourceMappingURL=LeftSideBottomItems.css.map */

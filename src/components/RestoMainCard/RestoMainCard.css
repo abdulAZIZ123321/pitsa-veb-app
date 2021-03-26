@@ -1,0 +1,61 @@
+.card-wrapper {
+  display: inline-block;
+  background: #1F1D2B;
+  border-radius: 16px;
+  margin-left: 24px;
+  margin-right: 24px;
+  margin-bottom: 58px;
+  cursor: pointer;
+}
+
+.card-wrapper .card-inner {
+  padding: 24px;
+}
+
+.card-wrapper .card-inner .two-bro {
+  text-align: center;
+}
+
+.card-wrapper .card-inner .card-title {
+  font-family: 'Barlow' sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 130%;
+  text-align: center;
+  color: #FFFFFF;
+  width: 144px;
+  margin-top: 11px;
+  margin-bottom: 8px;
+}
+
+.card-wrapper .card-inner .card-price {
+  font-family: 'Barlow' sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 140%;
+  text-align: center;
+  color: #FFFFFF;
+  margin-bottom: 4px;
+}
+
+.card-wrapper .card-inner .card-info {
+  font-family: 'Barlow' sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 140%;
+  text-align: center;
+  color: #ABBBC2;
+}
+
+.card-wrapper .card-inner .card-img {
+  border-radius: 50%;
+  margin-top: -50px;
+}
+
+.card-wrapper .card-inner .pit-checker {
+  display: none;
+}
+/*# sourceMappingURL=RestoMainCard.css.map */

@@ -1,0 +1,15 @@
+.dashTable-wrapper {
+  background: #1F1D2B;
+  border-radius: 8px;
+  margin: 24px;
+}
+
+.dashTable-wrapper .table-bottom-wrap {
+  max-height: 220px;
+  overflow-y: scroll;
+}
+
+.dashTable-wrapper ::-webkit-scrollbar {
+  width: 0px;
+}
+/*# sourceMappingURL=DashTable.css.map */

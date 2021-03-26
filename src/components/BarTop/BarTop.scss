@@ -1,0 +1,24 @@
+.bar-top-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px;
+
+    .bar-top-title {
+        font-family: 'Barlow' sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 140%;
+        color: #FFFFFF;
+    }
+
+    .bar-top-selecter {
+        background: #1F1D2B;
+        border: 1px solid #393C49;
+        box-sizing: border-box;
+        border-radius: 8px;
+        color: white;
+        padding: 13px 14px;
+    }
+}

@@ -1,0 +1,61 @@
+.dash-items-wrapper {
+    background: #1F1D2B;
+    border-radius: 8px;
+    margin-right: 24px;
+
+    .dash-items-inner {
+        padding: 20px;
+
+
+        .dash-top {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding-left: 16px;
+            padding-right: 63px;
+
+        }
+    }
+}
+
+.dash-image {
+    width: 38px;
+    height: 38px;
+}
+
+.persen-info {
+    font-family: 'Barlow' sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 140%;
+    color: #50D1AA;
+}
+
+.dash-image2 {
+     width: 18px;
+     height: 18px;
+
+   
+}
+
+.dash-title {
+    font-family: 'Barlow' sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 140%;
+    padding: 8px 48px 8px 16px;
+    color: #FFFFFF;
+}
+
+.dash-subtitle {
+    font-family: 'Barlow' sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 130%;
+    color: #ABBBC2;
+    padding: 8px 97px 16px 16px;
+    width: 112px;
+}

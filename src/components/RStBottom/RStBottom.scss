@@ -1,0 +1,17 @@
+.rs-bottom-wrapper {
+    display: flex;
+
+    .rsb-btn1 {
+        border: 1px solid #EA7C69;
+        box-sizing: border-box;
+        border-radius: 8px;
+        padding: 14px 34px;
+    }
+
+    .rsb-btn2 {
+        background: #EA7C69;
+        box-shadow: 0px 8px 24px rgba(234, 124, 105, 0.4);
+        border-radius: 8px;
+        padding: 14px 43px;
+    }
+}

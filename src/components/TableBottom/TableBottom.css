@@ -1,0 +1,55 @@
+.table-bottom-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  cursor: pointer;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 22px;
+  padding: 0px 24px;
+}
+
+.table-bottom-wrapper .table-bottom-info {
+  font-family: 'Barlow', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 140%;
+  color: #E0E6E9;
+}
+
+.table-bottom-wrapper .info--widthly {
+  width: 137px;
+}
+
+.table-bottom-wrapper .table-tag {
+  font-family: 'Barlow' sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 130%;
+  padding: 4px 12px;
+}
+
+.table-bottom-wrapper .table-tag.Completed {
+  color: #50D1AA;
+  background: rgba(107, 226, 190, 0.24);
+  border-radius: 30px;
+}
+
+.table-bottom-wrapper .table-tag.Preparing {
+  color: #9290FE;
+  background: rgba(146, 144, 254, 0.2);
+  border-radius: 30px;
+}
+
+.table-bottom-wrapper .table-tag.Pending {
+  color: #FFB572;
+  background: rgba(255, 181, 114, 0.2);
+  border-radius: 30px;
+}
+/*# sourceMappingURL=TableBottom.css.map */

@@ -1,0 +1,33 @@
+.rs-top {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 0px 24px;
+  padding-top: 12px;
+}
+
+.rs-top .rst-title {
+  font-family: 'Barlow' sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 140%;
+  color: #FFFFFF;
+}
+
+.rs-top .rst-selecter {
+  background: #1F1D2B;
+  border: 1px solid #393C49;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 8px;
+  color: white;
+  padding: 13px 14px;
+}
+/*# sourceMappingURL=RightSideTop.css.map */

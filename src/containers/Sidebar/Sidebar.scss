@@ -1,0 +1,23 @@
+.sdb-wrapper {
+    background: #1F1D2B;
+    border-radius: 16px;
+    height: 100vh;
+    width: 104px;
+    display: flex;
+    position: fixed;
+    left: 0;
+    top: 0;
+    flex-direction: column;
+    align-items: center ;
+    
+
+    .sdb-logo {
+        padding-top: 24px;
+    } 
+
+    .sdb-items {
+       margin-top: 20px;
+
+       
+    }
+}

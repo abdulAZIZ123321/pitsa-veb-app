@@ -1,0 +1,19 @@
+.dashTable-wrapper {
+    background: #1F1D2B;
+    border-radius: 8px;
+    margin: 24px;
+
+    //display: inline-block;
+    //width: 750px;
+
+    .table-bottom-wrap {
+        max-height: 220px;
+        overflow-y: scroll;
+       
+    }
+
+    ::-webkit-scrollbar {
+        width: 0px;
+    }
+
+}

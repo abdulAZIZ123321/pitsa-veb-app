@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #252836;
+  font-family: 'Barlow';
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+hr {
+  margin: 0;
+  padding: 0;
+}
+
+.father {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.resto-page-wrapper {
+  max-width: 750px;
+  padding-left: 110px;
+}
+
+.dashboard {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding-left: 90px;
+}
+
+.thisIsRight {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-top: 24px;
+}
+
+.dashboard-title {
+  font-family: 'Barlow' sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 140%;
+  color: #FFFFFF;
+  padding-left: 24px;
+  padding-top: 10px;
+}
+
+.dash-title2 {
+  font-family: 'Barlow' sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 140%;
+  color: #ABBBC2;
+  padding-left: 24px;
+  margin-bottom: 28px;
+}
+
+.setting-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-left: 110px;
+}
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,16 @@
+.links {
+  font-family: 'Barlow' sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 140%;
+  color: #FFFFFF;
+  padding-bottom: 7px;
+  border-bottom: 5px solid transparent;
+}
+
+.links:hover {
+  color: #EA7C69;
+  border-bottom: 5px solid #EA7C69;
+}
+/*# sourceMappingURL=RestoMiddleItems.css.map */

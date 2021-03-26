@@ -1,0 +1,21 @@
+.rb-wrapper {
+  background: #1F1D2B;
+  border-radius: 8px;
+  margin-top: 4px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.bar-img-left {
+  padding: 12px 12px 10px 12px;
+}
+
+.br-bt-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*# sourceMappingURL=RightBar.css.map */

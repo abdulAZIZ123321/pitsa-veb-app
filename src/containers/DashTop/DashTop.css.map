@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,SAAS,CAAC;EACN,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,aAAa;CACjC;;AAED,AAAA,gBAAgB,CAAC;EACb,YAAY,EAAE,IAAI;CACrB",
+    "sources": [
+        "DashTop.scss"
+    ],
+    "names": [],
+    "file": "DashTop.css"
+}

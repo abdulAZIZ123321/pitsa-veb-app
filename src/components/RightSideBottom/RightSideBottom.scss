@@ -1,0 +1,42 @@
+.rsb-main {
+    display: flex;
+    align-items: center;
+
+    .rsb-img {
+        width: 61.07px;
+        height: 55.42px;
+        border-radius: 50%;
+        margin-right: 13px;
+    }
+
+    .rsb-title {
+        font-family: 'Barlow' sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 130%;
+        color: #E0E6E9;
+        width: 214px;
+        margin-bottom: 4px;
+    }
+
+    .rsb-text {
+        font-family: 'Barlow' sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 140%;
+        color: #ABBBC2;
+    }
+}
+
+.rs-bottom {
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 24px;
+    padding-right: 24px;
+    
+
+}
+
+

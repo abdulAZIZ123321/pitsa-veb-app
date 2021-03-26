@@ -1,0 +1,12 @@
+.adder-wrapper {
+  border: 1px dashed #EA7C69;
+}
+
+.adder-btn {
+  color: #EA7C69;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  padding: 10px;
+}
+/*# sourceMappingURL=SettingAdder.css.map */

@@ -1,0 +1,36 @@
+.rsb-btn {
+    border: 1px solid #EA7C69;
+    box-sizing: border-box;
+    border-radius: 8px;
+    color: #EA7C69;
+    padding: 14px 100px;
+    background-color: transparent;
+    
+}
+
+.right-list-wrapper {
+    box-sizing: border-box;
+}
+
+.rs-btn-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+
+
+.right-list-inner {
+    background: #1F1D2B;
+    border-radius: 8px;
+    box-sizing: border-box;
+    padding: 5px;
+
+    hr {
+       border: 1px solid #393C49;
+       padding-left: 10px;
+       padding-right: 10px;
+    }
+   
+}

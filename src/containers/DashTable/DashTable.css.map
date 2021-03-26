@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,kBAAkB,CAAC;EACf,UAAU,EAAE,OAAO;EACnB,aAAa,EAAE,GAAG;EAClB,MAAM,EAAE,IAAI;CAef;;AAlBD,AAQI,kBARc,CAQd,kBAAkB,CAAC;EACf,UAAU,EAAE,KAAK;EACjB,UAAU,EAAE,MAAM;CAErB;;AAZL,AAcI,kBAdc,CAcd,mBAAmB,CAAC;EAChB,KAAK,EAAE,GAAG;CACb",
+    "sources": [
+        "DashTable.scss"
+    ],
+    "names": [],
+    "file": "DashTable.css"
+}

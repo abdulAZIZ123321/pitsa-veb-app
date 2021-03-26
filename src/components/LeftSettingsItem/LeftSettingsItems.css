@@ -1,0 +1,56 @@
+.leftSettingsItem-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 24px;
+}
+
+.leftSettingsItem-wrapper .st-left-inner {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.leftSettingsItem-wrapper .st-left-inner .st-img {
+  width: 13.33px;
+  height: 13.34px;
+}
+
+.leftSettingsItem-wrapper .st-left-inner .st-title {
+  font-family: 'Barlow' sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 130%;
+  color: #FFFFFF;
+  margin-bottom: 4px;
+}
+
+.leftSettingsItem-wrapper .st-left-inner .st-text {
+  font-family: 'Barlow' sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 140%;
+  color: #ABBBC2;
+}
+
+.leftSettingsItem-wrapper .st-left-inner .lst-img {
+  margin-right: 9px;
+}
+
+.leftSettingsItem-wrapper:hover {
+  background: rgba(234, 124, 105, 0.26);
+}
+
+.leftSettingsItem-wrapper:hover .st-img {
+  fill: #EA7C69;
+}
+
+.leftSettingsItem-wrapper:hover .st-title {
+  color: #EA7C69;
+}
+/*# sourceMappingURL=LeftSettingsItems.css.map */

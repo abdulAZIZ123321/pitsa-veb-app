@@ -1,0 +1,22 @@
+.rs-bottom-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.rs-bottom-wrapper .rsb-btn1 {
+  border: 1px solid #EA7C69;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 8px;
+  padding: 14px 34px;
+}
+
+.rs-bottom-wrapper .rsb-btn2 {
+  background: #EA7C69;
+  -webkit-box-shadow: 0px 8px 24px rgba(234, 124, 105, 0.4);
+          box-shadow: 0px 8px 24px rgba(234, 124, 105, 0.4);
+  border-radius: 8px;
+  padding: 14px 43px;
+}
+/*# sourceMappingURL=RStBottom.css.map */

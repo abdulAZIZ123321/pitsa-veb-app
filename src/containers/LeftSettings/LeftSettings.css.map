@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,sBAAsB,CAAC;EACnB,UAAU,EAAE,OAAO;EACnB,aAAa,EAAE,GAAG;EAClB,MAAM,EAAE,IAAI;CACf",
+    "sources": [
+        "LEftSettings.scss"
+    ],
+    "names": [],
+    "file": "LEftSettings.css"
+}

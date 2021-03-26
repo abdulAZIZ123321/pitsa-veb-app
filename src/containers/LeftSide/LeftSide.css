@@ -1,0 +1,23 @@
+.leftSide-wrapper {
+  position: fixed;
+  top: 0;
+  right: 0;
+  background: #1F1D2B;
+  height: 100vh;
+  width: 460px;
+}
+
+.leftSide-wrapper .leftSide-inner {
+  padding: 20px;
+}
+
+.leftSide-wrapper .leftSide-inner .forBottom {
+  margin-top: 150px;
+  overflow-y: scroll;
+  max-height: 500px;
+}
+
+.leftSide-wrapper .leftSide-inner ::-webkit-scrollbar {
+  width: 0px;
+}
+/*# sourceMappingURL=LeftSide.css.map */

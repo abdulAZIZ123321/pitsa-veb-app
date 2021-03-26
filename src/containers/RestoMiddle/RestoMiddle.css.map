@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,CAAC;EACT,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,aAAa;EAC9B,UAAU,EAAE,IAAI;EAChB,WAAW,EAAE,IAAI;CAIpB;;AAED,AAAA,EAAE,CAAC;EACC,MAAM,EAAE,iBAAiB;CAC5B",
+    "sources": [
+        "RestoMiddle.scss"
+    ],
+    "names": [],
+    "file": "RestoMiddle.css"
+}

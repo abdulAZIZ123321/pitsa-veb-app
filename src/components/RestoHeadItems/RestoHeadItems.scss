@@ -1,0 +1,43 @@
+.resto-items-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .head-title {
+      font-family: 'Barlow', sans-serif;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 28px;
+      line-height: 140%;
+      color: #FFFFFF;
+  }
+
+  .searcher-wrap {
+      
+    .searcher {
+          padding: 14px;
+          background: #2D303E;
+          border: 1px solid #393C49;
+          box-sizing: border-box;
+          border-radius: 8px;
+          outline: none;
+          color: white;
+    }
+
+    .searcher:focus {
+        border: 1px solid white;
+    }
+
+
+  }
+}
+
+.resto-subtitle {
+  font-family: 'Barlow' sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 140%;
+  color: #E0E6E9;
+
+}

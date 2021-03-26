@@ -1,0 +1,67 @@
+.card-wrapper {
+    display: inline-block;
+    background: #1F1D2B;
+    border-radius: 16px;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-bottom: 58px;
+    cursor: pointer;
+    
+
+    .card-inner {
+        padding: 24px;
+
+
+        .two-bro {
+            text-align: center;
+           
+        }
+
+        .card-title {
+            font-family: 'Barlow' sans-serif;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 130%;
+            text-align: center;
+            color: #FFFFFF;
+            width: 144px;
+            margin-top: 11px;
+            margin-bottom: 8px;
+
+        }
+
+        .card-price {
+            font-family: 'Barlow' sans-serif;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 14px;
+            line-height: 140%;
+            text-align: center;
+            color: #FFFFFF;
+            margin-bottom: 4px;
+        }
+
+        .card-info {
+            font-family: 'Barlow' sans-serif;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 14px;
+            line-height: 140%;
+            text-align: center;
+            color: #ABBBC2;
+        }
+
+
+        .card-img {
+           border-radius: 50%;
+           margin-top: -50px;
+
+        }
+
+        .pit-checker {
+            display: none;
+        }
+    }
+}
+

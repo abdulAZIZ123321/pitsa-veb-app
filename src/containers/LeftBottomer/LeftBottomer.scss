@@ -1,0 +1,88 @@
+.bottomer-wrapper {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    height: 150px;
+    width: 460px;
+    background-color: #1F1D2B;
+    box-sizing: border-box;
+
+    hr {
+        border: 1px solid #393C49;
+    }
+   
+    .bottomer-inner {
+        padding: 20px;
+
+        
+    }
+
+}
+
+.count {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 14px;
+    margin-bottom: 5px;
+}
+
+.total {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.count-title {
+    font-family: 'Barlow' sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    color: #ABBBC2;
+
+
+}
+
+.count-text {
+    font-family: 'Barlow' sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: right;
+    color: #FFFFFF;
+
+}
+
+.total-title {
+    font-family: 'Barlow' sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    color: #ABBBC2;
+}
+
+.total-text {
+    font-family: 'Barlow' sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.forPay {
+    background: #EA7C69;
+    box-shadow: 0px 8px 24px rgba(234, 124, 105, 0.3);
+    border-radius: 8px;
+    color: #FAFAFA;
+    display: block;
+    width: 100%;
+    padding: 14px 0px;
+    margin-top: 5px;
+    box-sizing: border-box;
+    outline: none;
+}

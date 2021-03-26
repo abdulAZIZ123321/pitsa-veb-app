@@ -1,0 +1,59 @@
+.leftSettingsItem-wrapper {
+    display: flex;
+    padding: 24px;
+
+    .st-left-inner {
+        display: flex;
+        justify-content: space-between;
+
+         .st-img {
+            width: 13.33px;
+            height: 13.34px;
+         }
+
+        .st-title {
+            font-family: 'Barlow' sans-serif;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 130%;
+            color: #FFFFFF;
+            margin-bottom: 4px;
+        }
+
+        .st-text {
+            font-family: 'Barlow' sans-serif;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 12px;
+            line-height: 140%;
+            color: #ABBBC2;
+        }
+
+        .lst-img {
+            margin-right: 9px;
+        }
+    }
+
+
+}
+
+.leftSettingsItem-wrapper:hover {
+
+    background: rgba(234, 124, 105, 0.26);
+
+    .st-img {
+        fill:  #EA7C69;
+        
+    }
+
+    .st-title {
+        color: #EA7C69;
+    }
+
+
+}
+
+// .leftSettingsItem-wrapper:last-child {
+//     padding-bottom: 30px;
+// }
